@@ -1,0 +1,9 @@
+# Audio
+af.fast_track_multiplier=1
+
+# GMS
+ro.opa.device_model_id=ga-oplus-skill-os121-211011
+
+# Camera
+vendor.camera.algo.jpeghwencode=0
+vendor.camera.aux.packagelist=android,com.oneplus.camera
